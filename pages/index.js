@@ -6,7 +6,7 @@ import envelope from "../assets/envelope_front.png"
 import headphone from "../assets/headphone_front.png"
 import heart from "../assets/heart_front.png"
 import message from "../assets/message_front.png"
-import me from "../assets/julian-wan-WNoLnJo7tS8-unsplash-removebg-preview.png"
+import me from "../assets/me-removebg-preview.png"
 import data from "../assets/data"
 
 export default function Home() {
@@ -46,7 +46,7 @@ export default function Home() {
       <div id="about" className="h-85vh 1440:h-50vh md:h-150vh xsm:h-160vh w-full flex md:flex-col">
         <div className="w-1/2 md:w-full md:h-40% h-full flex items-center justify-start">
           <div className="w-90% md:h-full md:w-full h-80% 1440:h-70% bg-primary flex items-end justify-center">
-            <Image width={400} height={400} src={me} />
+            <Image src={me} />
           </div>
         </div>
         <div className="w-1/2 md:w-full md:h-60% h-full flex flex-col justify-center">

@@ -13,10 +13,10 @@ const Footer = () => {
                     <h4 className="text-3xl xsm:text-xl mb-2 font-bold text-white font-poppins">{data.name} - {data.role}</h4>
                     <p className="text-md md:text-sm mb-8 text-white font-poppins">{data.email}</p>
                     <div className="flex mb-8">
-                        <a href={data.links.github}>
+                        <a target="_blank" href={data.links.github}>
                             <Github color="white" size="40"/>
                         </a>
-                        <a href={data.links.linkedin}>
+                        <a target="_blank" href={data.links.linkedin}>
                             <LinkedinSquare color="white" size="40"/>
                         </a>
                     </div>

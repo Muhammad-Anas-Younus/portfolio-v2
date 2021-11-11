@@ -1,43 +1,36 @@
 {
-    "name": "John Doe",
+    "name": "Muhammad Anas",
     "role": "Full Stack Developer",
-    "email": "something@gmail.com",
-    "tagline": "lorem ipsum something something",
-    "aboutme": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar hendrerit magna sed semper. Nunc justo diam, rutrum vitae suscipit ullamcorper, sodales nec risus. Proin ligula dolor, eleifend non erat at, vulputate mollis dui. Nam a fermentum erat. Quisque vitae ligula consequat.",
-    "skills": ["html", "css", "javascript", "node js ", "react js", "express js", "mongodb"],
+    "email": "muhammadanas4824@gmail.com",
+    "tagline": "I like to create software that solves real world problems",
+    "aboutme": "Hey there, my name's anas, I'm a full stack developer, i like to create software that solve's real world problems, i've been coding since i was 15, i specialize in MERN Stack, I'm a constant learner, self-starter and have an entrepreneurial mindset with a can do attitude.",
+    "skills": ["html", "css", "tailwind", "javascript",  "react js", "next js", "node js ", "express js", "mongodb"],
     "projects": [
         {   
             "id": "01",
-            "name": "Project Name",
-            "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar hendrerit magna sed semper. Nunc justo diam, rutrum vitae suscipit ullamcorper, sodales nec risus. Proin ligula dolor, eleifend non erat at, vulputate mollis dui. Nam a fermentum erat.",
-            "websiteLink": "#",
-            "codeLink": "#"
+            "name": "Glask",
+            "projectDescription": "Glask is an ecommerce store built with MERN Stack, tailwind and redux.",
+            "websiteLink": "https://glask-f5597.web.app/",
+            "codeLink": "https://github.com/Muhammad-Anas-Younus/backend"
 
         },
         {
             "id": "02",
-            "name": "Project Name",
-            "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar hendrerit magna sed semper. Nunc justo diam, rutrum vitae suscipit ullamcorper, sodales nec risus. Proin ligula dolor, eleifend non erat at, vulputate mollis dui. Nam a fermentum erat.",
-            "websiteLink": "#",
-            "codeLink": "#"
+            "name": "Betalk",
+            "projectDescription": "A real time chat application built with React, Styled components and Socket.io",
+            "websiteLink": "https://betalk-front.vercel.app/",
+            "codeLink": "https://github.com/Muhammad-Anas-Younus/betalk_front"
         },
         {
             "id": "03",
-            "name": "Project Name",
-            "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar hendrerit magna sed semper. Nunc justo diam, rutrum vitae suscipit ullamcorper, sodales nec risus. Proin ligula dolor, eleifend non erat at, vulputate mollis dui. Nam a fermentum erat.",
-            "websiteLink": "#",
-            "codeLink": "#"
-        },
-        {
-            "id": "04",
-            "name": "Project Name",
-            "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar hendrerit magna sed semper. Nunc justo diam, rutrum vitae suscipit ullamcorper, sodales nec risus. Proin ligula dolor, eleifend non erat at, vulputate mollis dui. Nam a fermentum erat.",
-            "websiteLink": "#",
-            "codeLink": "#"
+            "name": "Portfolio Template",
+            "projectDescription": "An open source portfolio template i created for developers.",
+            "websiteLink": "https://portfoliotemplatebyanas.netlify.app/",
+            "codeLink": "https://github.com/Muhammad-Anas-Younus/portfolioTemplateByAnas"
         }
     ],
     "links": {
-        "github": "#",
-        "linkedin": "#"
+        "github": "https://github.com/Muhammad-Anas-Younus",
+        "linkedin": "https://www.linkedin.com/in/muhammad-anas-a3b17719a"
     }
 }
